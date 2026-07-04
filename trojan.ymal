@@ -2,1402 +2,1802 @@
 # 本地 Trojan 节点集 - 已转换为 Mihomo 标准 YAML 格式
 
 proxies:
-  - name: "澳大利亚-独享带宽(1)"
+  - name: "韩国-独享带宽(1)"
     type: trojan
-    server: wanted-marmoset.rooster465.autos
+    server: moved-weasel.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: moved-weasel.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(2)"
     type: trojan
-    server: modest-coral.rooster465.autos
+    server: darling-ram.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: darling-ram.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(3)"
     type: trojan
-    server: healthy-panda.rooster465.autos
+    server: welcomed-man.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: welcomed-man.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(4)"
     type: trojan
-    server: gorgeous-hookworm.rooster465.autos
+    server: actual-pigeon.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: actual-pigeon.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(5)"
     type: trojan
-    server: splendid-dolphin.rooster465.autos
+    server: quick-ant.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: quick-ant.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(6)"
     type: trojan
-    server: worthy-labrador.rooster465.autos
+    server: upward-squid.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: upward-squid.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(7)"
     type: trojan
-    server: fancy-skink.rooster465.autos
+    server: infinite-tuna.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: infinite-tuna.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(8)"
     type: trojan
-    server: leading-eel.rooster465.autos
+    server: liked-prawn.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: liked-prawn.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(9)"
     type: trojan
-    server: smashing-airedale.rooster465.autos
+    server: feasible-guppy.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: feasible-guppy.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(10)"
     type: trojan
-    server: musical-ant.rooster465.autos
+    server: loved-shark.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: loved-shark.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(11)"
     type: trojan
-    server: large-pangolin.rooster465.autos
+    server: peaceful-muskrat.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: peaceful-muskrat.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(12)"
     type: trojan
-    server: star-hagfish.rooster465.autos
+    server: musical-ant.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: musical-ant.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(13)"
     type: trojan
-    server: outgoing-lynx.rooster465.autos
+    server: full-mayfly.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: full-mayfly.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(14)"
     type: trojan
-    server: saved-ghoul.rooster465.autos
+    server: curious-ocelot.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: curious-ocelot.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(15)"
     type: trojan
-    server: assuring-werewolf.rooster465.autos
+    server: giving-perch.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: giving-perch.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(16)"
     type: trojan
-    server: casual-basilisk.rooster465.autos
+    server: worthy-labrador.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: worthy-labrador.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(17)"
     type: trojan
-    server: living-reptile.rooster465.autos
+    server: on-airedale.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: on-airedale.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(18)"
     type: trojan
-    server: dear-hermit.rooster465.autos
+    server: set-halibut.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: set-halibut.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(19)"
     type: trojan
-    server: alert-fish.rooster465.autos
+    server: alive-flea.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: alive-flea.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(20)"
     type: trojan
-    server: on-airedale.rooster465.autos
+    server: engaging-toucan.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: engaging-toucan.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(21)"
     type: trojan
-    server: wired-grouper.rooster465.autos
+    server: aware-coyote.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: aware-coyote.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(22)"
     type: trojan
-    server: exact-albacore.rooster465.autos
+    server: charming-ox.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: charming-ox.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(23)"
     type: trojan
-    server: light-tick.rooster465.autos
+    server: prepared-hawk.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: prepared-hawk.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(24)"
     type: trojan
-    server: charming-ox.rooster465.autos
+    server: hot-tapir.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: hot-tapir.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(25)"
     type: trojan
-    server: intense-sole.rooster465.autos
+    server: moral-cow.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: moral-cow.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(26)"
     type: trojan
-    server: eminent-hagfish.rooster465.autos
+    server: curious-llama.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: curious-llama.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(27)"
     type: trojan
-    server: humorous-malamute.rooster465.autos
+    server: daring-sunbeam.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: daring-sunbeam.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(28)"
     type: trojan
-    server: internal-krill.rooster465.autos
+    server: kind-stork.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: kind-stork.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(29)"
     type: trojan
-    server: social-cod.rooster465.autos
+    server: able-dane.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: able-dane.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(30)"
     type: trojan
-    server: peaceful-muskrat.rooster465.autos
+    server: internal-garfish.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: internal-garfish.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(31)"
     type: trojan
-    server: live-javelin.rooster465.autos
+    server: dynamic-imp.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: dynamic-imp.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(32)"
     type: trojan
-    server: alert-titmouse.rooster465.autos
+    server: promoted-rattler.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: promoted-rattler.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(33)"
     type: trojan
-    server: picked-hamster.rooster465.autos
+    server: chief-bluegill.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: chief-bluegill.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(34)"
+  - name: "韩国-独享带宽(34)"
     type: trojan
-    server: noted-bass.rooster465.autos
+    server: real-cardinal.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: real-cardinal.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(35)"
     type: trojan
-    server: assuring-skink.rooster465.autos
+    server: driving-antelope.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: driving-antelope.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(36)"
+  - name: "日本-独享带宽(36)"
     type: trojan
-    server: innocent-sawfly.rooster465.autos
+    server: tight-gator.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: tight-gator.rooster465.autos
+    network: tcp
 
-  - name: "爱尔兰-独享带宽(37)"
+  - name: "日本-独享带宽(37)"
     type: trojan
-    server: moving-wren.rooster465.autos
+    server: noted-bass.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: noted-bass.rooster465.autos
+    network: tcp
 
-  - name: "荷兰-独享带宽(38)"
+  - name: "日本-独享带宽(38)"
     type: trojan
-    server: classic-duckling.rooster465.autos
+    server: star-hagfish.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: star-hagfish.rooster465.autos
+    network: tcp
 
-  - name: "荷兰-独享带宽(39)"
+  - name: "日本-独享带宽(39)"
     type: trojan
-    server: present-warthog.rooster465.autos
+    server: sharp-dogfish.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: sharp-dogfish.rooster465.autos
+    network: tcp
 
-  - name: "香港-独享带宽(40)"
+  - name: "波兰-独享带宽(40)"
     type: trojan
-    server: wealthy-loon.rooster465.autos
+    server: polite-martin.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: polite-martin.rooster465.autos
+    network: tcp
 
-  - name: "德国-独享带宽(41)"
+  - name: "新加坡-独享带宽(41)"
     type: trojan
-    server: busy-hermit.rooster465.autos
+    server: fleet-pony.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: fleet-pony.rooster465.autos
+    network: tcp
 
-  - name: "法国-独享带宽(42)"
+  - name: "新加坡-独享带宽(42)"
     type: trojan
-    server: new-antelope.rooster465.autos
+    server: glowing-iguana.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: glowing-iguana.rooster465.autos
+    network: tcp
 
-  - name: "法国-独享带宽(43)"
+  - name: "新加坡-独享带宽(43)"
     type: trojan
-    server: desired-pony.rooster465.autos
+    server: busy-lab.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: busy-lab.rooster465.autos
+    network: tcp
 
-  - name: "法国-独享带宽(44)"
+  - name: "新加坡-独享带宽(44)"
     type: trojan
-    server: nearby-cod.rooster465.autos
+    server: welcome-owl.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: welcome-owl.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(45)"
     type: trojan
-    server: ultimate-jaguar.rooster465.autos
+    server: immune-mullet.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: immune-mullet.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(46)"
     type: trojan
-    server: adapted-martin.rooster465.autos
+    server: cunning-midge.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: cunning-midge.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(47)"
+  - name: "爱尔兰-独享带宽(47)"
     type: trojan
-    server: settling-humpback.rooster465.autos
+    server: adapting-ghost.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: adapting-ghost.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(48)"
     type: trojan
-    server: grateful-colt.rooster465.autos
+    server: integral-rodent.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: integral-rodent.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(49)"
+  - name: "澳大利亚-独享带宽(49)"
     type: trojan
-    server: sweeping-dog.rooster465.autos
+    server: neat-whale.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: neat-whale.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(50)"
+  - name: "澳大利亚-独享带宽(50)"
     type: trojan
-    server: aware-jaybird.rooster465.autos
+    server: big-bonefish.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: big-bonefish.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(51)"
+  - name: "德国-独享带宽(51)"
     type: trojan
-    server: brief-hare.rooster465.autos
+    server: busy-hermit.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: busy-hermit.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(52)"
+  - name: "德国-独享带宽(52)"
     type: trojan
-    server: obliging-louse.rooster465.autos
+    server: optimum-bull.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: optimum-bull.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(53)"
+  - name: "荷兰-独享带宽(53)"
     type: trojan
-    server: deep-ringtail.rooster465.autos
+    server: literate-coyote.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: literate-coyote.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(54)"
+  - name: "法国-独享带宽(54)"
     type: trojan
-    server: together-mayfly.rooster465.autos
+    server: desired-pony.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: desired-pony.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(55)"
+  - name: "法国-独享带宽(55)"
     type: trojan
-    server: lenient-penguin.rooster465.autos
+    server: new-antelope.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: new-antelope.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(56)"
     type: trojan
-    server: fair-werewolf.rooster465.autos
+    server: learning-ibex.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: learning-ibex.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(57)"
     type: trojan
-    server: amusing-grub.rooster465.autos
+    server: premium-dog.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: premium-dog.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(58)"
     type: trojan
-    server: endless-bunny.rooster465.autos
+    server: aware-jaybird.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: aware-jaybird.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(59)"
     type: trojan
-    server: wealthy-herring.rooster465.autos
+    server: ruling-trout.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: ruling-trout.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(60)"
     type: trojan
-    server: faithful-clam.rooster465.autos
+    server: certain-kit.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: certain-kit.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(61)"
     type: trojan
-    server: funny-hawk.rooster465.autos
+    server: elegant-marten.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: elegant-marten.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(62)"
     type: trojan
-    server: cool-lioness.rooster465.autos
+    server: informed-stud.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: informed-stud.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(63)"
     type: trojan
-    server: careful-penguin.rooster465.autos
+    server: arriving-koala.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: arriving-koala.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(64)"
     type: trojan
-    server: elegant-marten.rooster465.autos
+    server: settling-humpback.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: settling-humpback.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(65)"
     type: trojan
-    server: joint-ewe.rooster465.autos
+    server: absolute-hare.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: absolute-hare.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(66)"
     type: trojan
-    server: cunning-midge.rooster465.autos
+    server: powerful-sheep.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: powerful-sheep.rooster465.autos
+    network: tcp
 
   - name: "新加坡-独享带宽(67)"
     type: trojan
-    server: massive-terrapin.rooster465.autos
+    server: real-ewe.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: real-ewe.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(68)"
+  - name: "新加坡-独享带宽(68)"
     type: trojan
-    server: emerging-baboon.rooster465.autos
+    server: wealthy-herring.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: wealthy-herring.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(69)"
+  - name: "新加坡-独享带宽(69)"
     type: trojan
-    server: perfect-emu.rooster465.autos
+    server: robust-wallaby.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: robust-wallaby.rooster465.autos
+    network: tcp
 
-  - name: "美国-独享带宽(70)"
+  - name: "新加坡-独享带宽(70)"
     type: trojan
-    server: singular-sheepdog.rooster465.autos
+    server: present-ram.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: present-ram.rooster465.autos
+    network: tcp
 
-  - name: "美国-独享带宽(71)"
+  - name: "新加坡-独享带宽(71)"
     type: trojan
-    server: possible-pup.rooster465.autos
+    server: helped-jennet.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: helped-jennet.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(72)"
+  - name: "新加坡-独享带宽(72)"
     type: trojan
-    server: lucky-chimp.rooster465.autos
+    server: easy-barnacle.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: easy-barnacle.rooster465.autos
+    network: tcp
 
-  - name: "美国-独享带宽(73)"
+  - name: "新加坡-独享带宽(73)"
     type: trojan
-    server: adjusted-orca.rooster465.autos
+    server: innocent-sawfly.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: innocent-sawfly.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(74)"
+  - name: "新加坡-独享带宽(74)"
     type: trojan
-    server: perfect-slug.rooster465.autos
+    server: clear-snail.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: clear-snail.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(75)"
     type: trojan
-    server: set-halibut.rooster465.autos
+    server: definite-malamute.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: definite-malamute.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(76)"
     type: trojan
-    server: upright-rhino.rooster465.autos
+    server: bursting-dolphin.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: bursting-dolphin.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(77)"
+  - name: "法国-独享带宽(77)"
     type: trojan
-    server: communal-troll.rooster465.autos
+    server: pumped-eft.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: pumped-eft.rooster465.autos
+    network: tcp
 
   - name: "韩国-独享带宽(78)"
     type: trojan
-    server: ace-liger.rooster465.autos
+    server: rich-gelding.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: rich-gelding.rooster465.autos
+    network: tcp
 
   - name: "日本-独享带宽(79)"
     type: trojan
-    server: brave-squirrel.rooster465.autos
+    server: large-pangolin.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: large-pangolin.rooster465.autos
+    network: tcp
 
-  - name: "美国-独享带宽(80)"
-    type: trojan
-    server: engaging-elephant.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(81)"
-    type: trojan
-    server: primary-mallard.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(82)"
-    type: trojan
-    server: novel-bat.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(83)"
-    type: trojan
-    server: aware-serval.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(84)"
-    type: trojan
-    server: better-silkworm.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(85)"
-    type: trojan
-    server: legible-chipmunk.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(86)"
-    type: trojan
-    server: adjusted-turtle.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(87)"
-    type: trojan
-    server: better-molly.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(88)"
-    type: trojan
-    server: pro-mako.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(89)"
-    type: trojan
-    server: topical-fox.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(90)"
-    type: trojan
-    server: outgoing-eagle.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(91)"
-    type: trojan
-    server: pretty-bluejay.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(92)"
-    type: trojan
-    server: adapting-giraffe.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(93)"
-    type: trojan
-    server: steady-prawn.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(94)"
-    type: trojan
-    server: intense-monarch.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(95)"
-    type: trojan
-    server: active-mackerel.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(96)"
-    type: trojan
-    server: viable-serval.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(97)"
-    type: trojan
-    server: rational-joey.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(98)"
-    type: trojan
-    server: skilled-monster.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(99)"
-    type: trojan
-    server: pet-mako.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(100)"
-    type: trojan
-    server: complete-narwhal.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(101)"
-    type: trojan
-    server: curious-llama.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(102)"
+  - name: "日本-独享带宽(80)"
     type: trojan
     server: hopeful-burro.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: hopeful-burro.rooster465.autos
+    network: tcp
 
-  - name: "法国-独享带宽(103)"
+  - name: "香港-独享带宽(81)"
     type: trojan
-    server: definite-giraffe.rooster465.autos
+    server: just-alpaca.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: just-alpaca.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(104)"
+  - name: "香港-独享带宽(82)"
     type: trojan
-    server: stirred-sunbeam.rooster465.autos
+    server: growing-oyster.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: growing-oyster.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(105)"
+  - name: "香港-独享带宽(83)"
     type: trojan
-    server: pure-ghoul.rooster465.autos
+    server: eminent-lamb.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: eminent-lamb.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(106)"
+  - name: "美国-独享带宽(84)"
     type: trojan
-    server: pumped-clam.rooster465.autos
+    server: engaging-elephant.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: engaging-elephant.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(107)"
+  - name: "美国-独享带宽(85)"
     type: trojan
-    server: busy-slug.rooster465.autos
+    server: concise-lacewing.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: concise-lacewing.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(108)"
+  - name: "美国-独享带宽(86)"
     type: trojan
-    server: fond-mammoth.rooster465.autos
+    server: singular-sheepdog.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: singular-sheepdog.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(109)"
+  - name: "韩国-独享带宽(87)"
     type: trojan
-    server: adapted-worm.rooster465.autos
+    server: winning-shrimp.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: winning-shrimp.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(110)"
+  - name: "日本-独享带宽(88)"
     type: trojan
-    server: engaged-lionfish.rooster465.autos
+    server: summary-firefly.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: summary-firefly.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(111)"
+  - name: "韩国-独享带宽(89)"
     type: trojan
-    server: upright-impala.rooster465.autos
+    server: alert-wren.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: alert-wren.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(112)"
+  - name: "韩国-独享带宽(90)"
     type: trojan
-    server: humorous-starling.rooster465.autos
+    server: adjusted-turtle.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: adjusted-turtle.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(113)"
+  - name: "韩国-独享带宽(91)"
     type: trojan
-    server: touching-pigeon.rooster465.autos
+    server: loved-locust.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: loved-locust.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(114)"
+  - name: "韩国-独享带宽(92)"
     type: trojan
-    server: mutual-raccoon.rooster465.autos
+    server: bursting-racer.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: bursting-racer.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(115)"
+  - name: "韩国-独享带宽(93)"
     type: trojan
-    server: proven-stud.rooster465.autos
+    server: sure-husky.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: sure-husky.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(116)"
+  - name: "韩国-独享带宽(94)"
     type: trojan
-    server: pumped-sailfish.rooster465.autos
+    server: aware-serval.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: aware-serval.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(117)"
+  - name: "韩国-独享带宽(95)"
     type: trojan
-    server: harmless-gobbler.rooster465.autos
+    server: dashing-minnow.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: dashing-minnow.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(118)"
+  - name: "韩国-独享带宽(96)"
     type: trojan
-    server: powerful-opossum.rooster465.autos
+    server: prime-quail.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: prime-quail.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(119)"
+  - name: "韩国-独享带宽(97)"
     type: trojan
-    server: smooth-sculpin.rooster465.autos
+    server: pet-mako.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: pet-mako.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(120)"
+  - name: "日本-独享带宽(98)"
     type: trojan
-    server: whole-grub.rooster465.autos
+    server: brief-warthog.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: brief-warthog.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(121)"
+  - name: "韩国-独享带宽(99)"
     type: trojan
-    server: wealthy-bengal.rooster465.autos
+    server: perfect-slug.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: perfect-slug.rooster465.autos
+    network: tcp
 
-  - name: "澳大利亚-独享带宽(122)"
+  - name: "日本-独享带宽(100)"
     type: trojan
-    server: true-pony.rooster465.autos
+    server: capable-loon.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: capable-loon.rooster465.autos
+    network: tcp
 
-  - name: "澳大利亚-独享带宽(123)"
+  - name: "日本-独享带宽(101)"
     type: trojan
-    server: darling-mutt.rooster465.autos
+    server: brave-squirrel.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: brave-squirrel.rooster465.autos
+    network: tcp
 
-  - name: "澳大利亚-独享带宽(124)"
+  - name: "日本-独享带宽(102)"
     type: trojan
-    server: in-colt.rooster465.autos
+    server: next-jaybird.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: next-jaybird.rooster465.autos
+    network: tcp
 
-  - name: "爱尔兰-独享带宽(125)"
+  - name: "日本-独享带宽(103)"
     type: trojan
-    server: fit-calf.rooster465.autos
+    server: viable-serval.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: viable-serval.rooster465.autos
+    network: tcp
 
-  - name: "爱尔兰-独享带宽(126)"
+  - name: "日本-独享带宽(104)"
     type: trojan
-    server: funky-opossum.rooster465.autos
+    server: settling-grouper.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: settling-grouper.rooster465.autos
+    network: tcp
 
-  - name: "爱尔兰-独享带宽(127)"
+  - name: "日本-独享带宽(105)"
     type: trojan
-    server: grateful-unicorn.rooster465.autos
+    server: intimate-moray.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: intimate-moray.rooster465.autos
+    network: tcp
 
-  - name: "荷兰-独享带宽(128)"
+  - name: "日本-独享带宽(106)"
     type: trojan
-    server: unique-gobbler.rooster465.autos
+    server: square-gnat.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: square-gnat.rooster465.autos
+    network: tcp
 
-  - name: "荷兰-独享带宽(129)"
+  - name: "日本-独享带宽(107)"
     type: trojan
-    server: workable-crawdad.rooster465.autos
+    server: well-goshawk.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: well-goshawk.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(130)"
+  - name: "日本-独享带宽(108)"
     type: trojan
-    server: proud-pheasant.rooster465.autos
+    server: immense-seasnail.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: immense-seasnail.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(131)"
+  - name: "日本-独享带宽(109)"
     type: trojan
-    server: awaited-lark.rooster465.autos
+    server: direct-hawk.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: direct-hawk.rooster465.autos
+    network: tcp
 
-  - name: "香港-独享带宽(132)"
+  - name: "日本-独享带宽(110)"
     type: trojan
-    server: ace-starling.rooster465.autos
+    server: pro-snake.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: pro-snake.rooster465.autos
+    network: tcp
 
-  - name: "香港-独享带宽(133)"
+  - name: "日本-独享带宽(111)"
     type: trojan
-    server: pretty-vervet.rooster465.autos
+    server: splendid-grizzly.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: splendid-grizzly.rooster465.autos
+    network: tcp
 
-  - name: "香港-独享带宽(134)"
+  - name: "日本-独享带宽(112)"
     type: trojan
-    server: saved-mudfish.rooster465.autos
+    server: warm-bass.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: warm-bass.rooster465.autos
+    network: tcp
 
-  - name: "波兰-独享带宽(135)"
-    type: trojan
-    server: strong-haddock.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "香港-独享带宽(136)"
-    type: trojan
-    server: full-ox.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "amused-peacock"
-    type: trojan
-    server: amused-peacock.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "香港-独享带宽(138)"
-    type: trojan
-    server: true-coral.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "香港-独享带宽(139)"
-    type: trojan
-    server: natural-swan.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "德国-独享带宽(140)"
-    type: trojan
-    server: together-insect.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "德国-独享带宽(141)"
-    type: trojan
-    server: aware-pika.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(142)"
-    type: trojan
-    server: tight-fawn.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(143)"
-    type: trojan
-    server: healthy-louse.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "德国-独享带宽(144)"
-    type: trojan
-    server: square-pheasant.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "波兰-独享带宽(145)"
-    type: trojan
-    server: kind-unicorn.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "波兰-独享带宽(146)"
-    type: trojan
-    server: summary-dragon.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "波兰-独享带宽(147)"
-    type: trojan
-    server: ideal-robin.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(148)"
-    type: trojan
-    server: endless-kiwi.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(149)"
-    type: trojan
-    server: shining-haddock.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(150)"
-    type: trojan
-    server: amazed-burro.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(151)"
-    type: trojan
-    server: loyal-molly.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(152)"
-    type: trojan
-    server: prime-chimp.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(153)"
-    type: trojan
-    server: frank-piranha.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(154)"
-    type: trojan
-    server: topical-shark.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(155)"
-    type: trojan
-    server: mature-lamprey.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(156)"
-    type: trojan
-    server: concise-bass.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(157)"
-    type: trojan
-    server: glorious-lark.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(158)"
-    type: trojan
-    server: still-mastodon.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(159)"
-    type: trojan
-    server: star-moray.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(160)"
-    type: trojan
-    server: inviting-rabbit.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(161)"
-    type: trojan
-    server: sincere-gelding.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(162)"
-    type: trojan
-    server: romantic-kangaroo.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(163)"
-    type: trojan
-    server: sterling-dinosaur.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(164)"
-    type: trojan
-    server: fleet-bonefish.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(165)"
-    type: trojan
-    server: gentle-raptor.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(166)"
-    type: trojan
-    server: arriving-colt.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(167)"
-    type: trojan
-    server: many-cricket.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(168)"
-    type: trojan
-    server: capable-dory.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(169)"
-    type: trojan
-    server: star-shrew.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(170)"
-    type: trojan
-    server: flowing-eagle.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(171)"
-    type: trojan
-    server: humorous-hawk.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(172)"
-    type: trojan
-    server: helped-grouper.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(173)"
-    type: trojan
-    server: select-ferret.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(174)"
-    type: trojan
-    server: learning-fawn.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "美国-独享带宽(175)"
-    type: trojan
-    server: emerging-hagfish.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(176)"
-    type: trojan
-    server: maximum-gorilla.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(177)"
-    type: trojan
-    server: open-eel.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(178)"
-    type: trojan
-    server: whole-perch.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(179)"
-    type: trojan
-    server: humane-hawk.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(180)"
-    type: trojan
-    server: right-seahorse.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "韩国-独享带宽(181)"
-    type: trojan
-    server: picked-hippo.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(182)"
-    type: trojan
-    server: cheerful-tapir.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(183)"
-    type: trojan
-    server: closing-moose.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(184)"
-    type: trojan
-    server: brief-flamingo.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(185)"
-    type: trojan
-    server: premium-perch.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(186)"
-    type: trojan
-    server: set-gazelle.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "日本-独享带宽(187)"
-    type: trojan
-    server: evolving-platypus.rooster465.autos
-    port: 443
-    password: "WF16829354"
-    udp: true
-
-  - name: "新加坡-独享带宽(188)"
+  - name: "新加坡-独享带宽(113)"
     type: trojan
     server: enabled-monitor.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: enabled-monitor.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(189)"
+  - name: "新加坡-独享带宽(114)"
     type: trojan
-    server: logical-koala.rooster465.autos
+    server: pumped-sailfish.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: pumped-sailfish.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(190)"
+  - name: "韩国-独享带宽(115)"
+    type: tro Trojan
+    server: relevant-krill.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: relevant-krill.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(116)"
     type: trojan
-    server: stirring-bat.rooster465.autos
+    server: feasible-wren.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: feasible-wren.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(191)"
+  - name: "新加坡-独享带宽(117)"
     type: trojan
-    server: intimate-hog.rooster465.autos
+    server: literate-grizzly.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: literate-grizzly.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(192)"
+  - name: "新加坡-独享带宽(118)"
     type: trojan
-    server: apt-midge.rooster465.autos
+    server: pleased-raptor.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: pleased-raptor.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(193)"
+  - name: "日本-独享带宽(119)"
     type: trojan
-    server: sacred-anemone.rooster465.autos
+    server: teaching-gnu.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: teaching-gnu.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(194)"
+  - name: "日本-独享带宽(120)"
     type: trojan
-    server: major-duckling.rooster465.autos
+    server: sterling-macaw.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: sterling-macaw.rooster465.autos
+    network: tcp
 
-  - name: "新加坡-独享带宽(195)"
+  - name: "韩国-独享带宽(121)"
     type: trojan
-    server: tough-gopher.rooster465.autos
+    server: moral-buzzard.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: moral-buzzard.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(196)"
+  - name: "波兰-独享带宽(122)"
     type: trojan
-    server: absolute-teal.rooster465.autos
+    server: upright-hamster.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: upright-hamster.rooster465.autos
+    network: tcp
 
-  - name: "美国-独享带宽(197)"
+  - name: "新加坡-独享带宽(123)"
     type: trojan
-    server: saving-anemone.rooster465.autos
+    server: sharing-fawn.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: sharing-fawn.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(198)"
+  - name: "新加坡-独享带宽(124)"
     type: trojan
-    server: natural-collie.rooster465.autos
+    server: endless-jackal.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: endless-jackal.rooster465.autos
+    network: tcp
 
-  - name: "日本-独享带宽(199)"
+  - name: "韩国-独享带宽(125)"
     type: trojan
-    server: novel-kitten.rooster465.autos
+    server: needed-gelding.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: needed-gelding.rooster465.autos
+    network: tcp
 
-  - name: "韩国-独享带宽(200)"
+  - name: "韩国-独享带宽(126)"
+    type: trojan
+    server: steady-lemming.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: steady-lemming.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(127)"
+    type: trojan
+    server: caring-wallaby.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: caring-wallaby.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(128)"
+    type: trojan
+    server: open-eel.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: open-eel.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(129)"
+    type: trojan
+    server: sincere-gelding.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: sincere-gelding.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(130)"
+    type: trojan
+    server: square-tortoise.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: square-tortoise.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(131)"
+    type: trojan
+    server: main-dragon.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: main-dragon.rooster465.autos
+    network: tcp
+
+  - name: "波兰-独享带宽(132)"
+    type: trojan
+    server: summary-dragon.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: summary-dragon.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(133)"
+    type: trojan
+    server: fast-drum.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: fast-drum.rooster465.autos
+    network: tcp
+
+  - name: "德国-独享带宽(134)"
+    type: trojan
+    server: square-pheasant.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: square-pheasant.rooster465.autos
+    network: tcp
+
+  - name: "法国-独享带宽(135)"
+    type: trojan
+    server: one-quail.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: one-quail.rooster465.autos
+    network: tcp
+
+  - name: "荷兰-独享带宽(136)"
+    type: trojan
+    server: casual-bullfrog.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: casual-bullfrog.rooster465.autos
+    network: tcp
+
+  - name: "荷兰-独享带宽(137)"
+    type: trojan
+    server: enough-basilisk.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: enough-basilisk.rooster465.autos
+    network: tcp
+
+  - name: "荷兰-独享带宽(138)"
+    type: trojan
+    server: pro-crane.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: pro-crane.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(139)"
+    type: trojan
+    server: bright-quagga.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: bright-quagga.rooster465.autos
+    network: tcp
+
+  - name: "德国-独享带宽(140)"
+    type: trojan
+    server: lenient-dory.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: lenient-dory.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(141)"
+    type: trojan
+    server: usable-dogfish.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: usable-dogfish.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(142)"
+    type: trojan
+    server: internal-sunbird.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: internal-sunbird.rooster465.autos
+    network: tcp
+
+  - name: "澳大利亚-独享带宽(143)"
+    type: trojan
+    server: eternal-frog.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: eternal-frog.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(144)"
+    type: trojan
+    server: sterling-fowl.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: sterling-fowl.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(145)"
     type: trojan
     server: artistic-pigeon.rooster465.autos
     port: 443
-    password: "WF16829354"
+    password: "WV36812709"
     udp: true
+    sni: artistic-pigeon.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(146)"
+    type: trojan
+    server: fair-reptile.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: fair-reptile.rooster465.autos
+    network: tcp
+
+  - name: "澳大利亚-独享带宽(147)"
+    type: trojan
+    server: true-pony.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: true-pony.rooster465.autos
+    network: tcp
+
+  - name: "爱尔兰-独享带宽(148)"
+    type: trojan
+    server: vast-turkey.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: vast-turkey.rooster465.autos
+    network: tcp
+
+  - name: "爱尔兰-独享带宽(149)"
+    type: trojan
+    server: thankful-piranha.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: thankful-piranha.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(150)"
+    type: trojan
+    server: proud-escargot.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: proud-escargot.rooster465.autos
+    network: tcp
+
+  - name: "爱尔兰-独享带宽(151)"
+    type: trojan
+    server: grateful-unicorn.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: grateful-unicorn.rooster465.autos
+    network: tcp
+
+  - name: "波兰-独享带宽(152)"
+    type: trojan
+    server: ready-lion.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: ready-lion.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(153)"
+    type: trojan
+    server: still-mastodon.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: still-mastodon.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(154)"
+    type: trojan
+    server: exciting-grizzly.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: exciting-grizzly.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(155)"
+    type: trojan
+    server: immense-longhorn.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: immense-longhorn.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(156)"
+    type: trojan
+    server: prime-chimp.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: prime-chimp.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(157)"
+    type: trojan
+    server: tough-hermit.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: tough-hermit.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(158)"
+    type: trojan
+    server: probable-dinosaur.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: probable-dinosaur.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(159)"
+    type: trojan
+    server: tolerant-rattler.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: tolerant-rattler.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(160)"
+    type: trojan
+    server: optimal-dane.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: optimal-dane.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(161)"
+    type: trojan
+    server: summary-lemming.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: summary-lemming.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(162)"
+    type: trojan
+    server: funny-squid.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: funny-squid.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(163)"
+    type: trojan
+    server: engaged-skink.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: engaged-skink.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(164)"
+    type: trojan
+    server: enabled-stud.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: enabled-stud.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(165)"
+    type: trojan
+    server: engaging-elf.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: engaging-elf.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(166)"
+    type: trojan
+    server: wondrous-dogfish.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: wondrous-dogfish.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(167)"
+    type: trojan
+    server: pet-ghost.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: pet-ghost.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(168)"
+    type: trojan
+    server: normal-macaque.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: normal-macaque.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(169)"
+    type: trojan
+    server: humorous-parakeet.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: humorous-parakeet.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(170)"
+    type: trojan
+    server: smooth-sculpin.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: smooth-sculpin.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(171)"
+    type: trojan
+    server: heroic-cow.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: heroic-cow.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(172)"
+    type: trojan
+    server: leading-ram.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: leading-ram.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(173)"
+    type: trojan
+    server: ace-starling.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: ace-starling.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(174)"
+    type: trojan
+    server: dynamic-grubworm.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: dynamic-grubworm.rooster465.autos
+    network: tcp
+
+  - name: "香港-独享带宽(175)"
+    type: trojan
+    server: full-ox.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: full-ox.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(176)"
+    type: trojan
+    server: dashing-possum.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: dashing-possum.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(177)"
+    type: trojan
+    server: popular-meerkat.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: popular-meerkat.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(178)"
+    type: trojan
+    server: Owls-monitor.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: Owls-monitor.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(179)"
+    type: trojan
+    server: welcome-monitor.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: welcome-monitor.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(180)"
+    type: trojan
+    server: clean-elf.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: clean-elf.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(181)"
+    type: trojan
+    server: golden-kangaroo.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: golden-kangaroo.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(182)"
+    type: trojan
+    server: inviting-burro.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: inviting-burro.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(183)"
+    type: trojan
+    server: balanced-stag.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: balanced-stag.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(184)"
+    type: trojan
+    server: wired-shiner.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: wired-shiner.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(185)"
+    type: trojan
+    server: grateful-cod.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: grateful-cod.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(186)"
+    type: trojan
+    server: casual-stallion.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: casual-stallion.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(187)"
+    type: trojan
+    server: proud-honeybee.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: proud-honeybee.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(188)"
+    type: trojan
+    server: touching-ostrich.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: touching-ostrich.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(189)"
+    type: trojan
+    server: select-marmoset.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: select-marmoset.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(190)"
+    type: trojan
+    server: trusting-moccasin.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: trusting-moccasin.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(191)"
+    type: trojan
+    server: stirring-bat.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: stirring-bat.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(192)"
+    type: trojan
+    server: fair-kingfish.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: fair-kingfish.rooster465.autos
+    network: tcp
+
+  - name: "韩国-独享带宽(193)"
+    type: trojan
+    server: true-alpaca.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: true-alpaca.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(194)"
+    type: trojan
+    server: topical-shark.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: topical-shark.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(195)"
+    type: trojan
+    server: frank-piranha.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: frank-piranha.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(196)"
+    type: trojan
+    server: maximum-elk.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: maximum-elk.rooster465.autos
+    network: tcp
+
+  - name: "美国-独享带宽(197)"
+    type: trojan
+    server: polite-coyote.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: polite-coyote.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(198)"
+    type: trojan
+    server: ideal-pangolin.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: ideal-pangolin.rooster465.autos
+    network: tcp
+
+  - name: "新加坡-独享带宽(199)"
+    type: trojan
+    server: stunning-mastodon.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: stunning-mastodon.rooster465.autos
+    network: tcp
+
+  - name: "日本-独享带宽(200)"
+    type: trojan
+    server: loyal-molly.rooster465.autos
+    port: 443
+    password: "WV36812709"
+    udp: true
+    sni: loyal-molly.rooster465.autos
+    network: tcp
